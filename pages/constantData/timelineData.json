@@ -1,0 +1,26 @@
+[
+    {
+        "text": "Sample Text 1",
+        "date": "Jan 03 2017",
+        "tag": "Name1",
+        "color": "#06163a"
+    },
+    {
+        "text": "Sample Text 2",
+        "date": "Feb 03 2017",
+        "tag": "Name2",
+        "color": "#06163a"
+    },
+    {
+        "text": "Sample Text 3",
+        "date": "March 03 2017",
+        "tag": "Name3",
+        "color": "#06163a"
+    },
+    {
+        "text": "Sample Text 4",
+        "date": "April 03 2017",
+        "tag": "Name4",
+        "color": "#06163a"
+    }
+]
